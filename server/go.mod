@@ -11,7 +11,7 @@ require (
 	github.com/nlopes/slack v0.6.0
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/stretchr/testify v1.2.2
-	golang.org/x/net v0.0.0-20190912160710-24e19bdeb0f2 // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
 
 go 1.13
